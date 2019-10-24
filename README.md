@@ -12,7 +12,7 @@ Kritika.IO integrates with GitHub, BitBucket and GitLab. So you can use Kritika 
   - Notice: 19.9K
 - Time to test: 7 hours
 ```
-![result](/ResultKritika.PNG)  
+
 **Some violations:**      
 *Warning*  
 ![example1](/example1.png)  
