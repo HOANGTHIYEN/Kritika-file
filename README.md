@@ -6,9 +6,9 @@ Kritika.IO integrates with GitHub, BitBucket and GitLab. So you can use Kritika 
 
 **Some violations:**      
 *Warning*  
-![example1](/example1.png)  
+![example1](/example2.png)  
 *Critical*  
-![example2](/example2.png)  
+![example2](/example12.png)  
 *Notice*  
 ![example3](/example3.png)  
-![example3](/example3.png) 
+![example3](/example33.png) 
