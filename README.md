@@ -15,8 +15,8 @@ Kritika.IO integrates with GitHub, BitBucket and GitLab. So you can use Kritika 
 ![result](/ResultKritika.PNG)  
 **Some violations:**      
 *Warning*  
-![example1](/example1.PNG)  
+![example1](/example1.png)  
 *Critical*  
-![example2](/example2.PNG)  
+![example2](/example2.png)  
 *Notice*  
-![example3](/example3.PNG)  
+![example3](/example3.png)  
